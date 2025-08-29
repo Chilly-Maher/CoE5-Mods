@@ -1,0 +1,41 @@
+icon "icon2.png"
+
+description "Light mod that makes all the human recruits for the Baalists unique + makes the hierodules match."
+
+modprio 4
+
+
+selectmonster "Ba'alite Spearman"
+spr1 "!Sturm/militia_idle.png"
+spr2 "!Sturm/militia_attack.png"
+size1x1
+
+selectmonster "Ba'alite Archer"
+spr1 "!Sturm/archer_idle.png"
+spr2 "!Sturm/archer_attack.png"
+size1x1
+
+selectmonster "Ba'alite Zealot"
+spr1 "!Sturm/sword_idle.png"
+spr2 "!Sturm/sword_attack.png"
+size1x1
+
+selectmonster "Ba'alite Heavy Infantry"
+spr1 "!Sturm/arms_idle.png"
+spr2 "!Sturm/arms_attack.png"
+size1x1
+
+selectmonster "Hierodule"
+spr1 "!Sturm/savant_idle.png"
+spr2 "!Sturm/savant_attack.png"
+size1x1
+
+selectmonster "High Priestess"
+spr1 "!Sturm/lore_idle.png"
+spr2 "!Sturm/lore_attack.png"
+size1x1
+
+selectmonster "Anointed Priestess"
+spr1 "!Sturm/sorc_idle.png"
+spr2 "!Sturm/sorc_attack.png"
+size1x1
