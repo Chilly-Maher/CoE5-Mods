@@ -1,0 +1,20 @@
+[b] What is this?[/b]
+
+Simple lightweight mod that gives the Baalists unique sprites. 
+
+This does make all the footsoldiers into female sprites, I decided against giving them the female tag even though I'm pretty sure it only affects seduction auras for non-commanders. 
+
+[b] Compatibility?[/b]
+
+Unless any of your mods fully deletes and remakes these units, there shouldn't be any incompats. Also hardsets the size to 1x1, not that I anticipate anyone wanting to make giant hierodules, but you never know.
+
+[b] Why?[/b]
+
+Baalists have unique stats, but no unique sprites. Tada, fixed.
+
+I'm breaking up my personal project into several pieces so the same mod that adds a new class doesn't also change some sprites. Timeline scales with how much I'm procrastinating.
+
+[b] Sprites?[/b]
+
+All sprites were kindly given from Sturm, go check them out: https://steamcommunity.com/sharedfiles/filedetails/?id=3141529125
+
